@@ -93,7 +93,7 @@ https://n9.cl/s4m9lu
 https://n9.cl/3ia9zu
 #EXTINF:-0 group-title="📺ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://n9.cl/06frv" ,TRUE X-ZYTE
 https://n9.cl/lx5q5
-#EXTINF:-1 group-title="📺ช่องทรูวิชั่น" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
+#EXTINF:-1 group-title="📺ช่องทรูวิชั่น"" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
 https://n9.cl/mgrw9x
 #EXTINF:-0 group-title="📺ช่องทรูวิชั่น" tvg-id="" tvg-logo="https://n9.cl/mog4y" ,TRUE ANIMALPLANET
 https://n9.cl/ldx4t7
@@ -105,11 +105,11 @@ https://n9.cl/byxa76
 https://n9.cl/36wcu
 #EXTINF:-0 group-title="📺ช่องทรูวิชั่น" tvg-id="TrueExploreSci.th" tvg-logo="https://n9.cl/slkna", True Explore Sci
 https://n9.cl/mwkt5u
-#EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://n9.cl/j3kd3" group-title="📺ช่องทรูวิชั่น",DiscoverASIA
+#EXTINF:-1 group-title="📺ช่องทรูวิชั่น"" tvg-logo="https://n9.cl/j3kd3", DiscoverASIA
 https://n9.cl/adgqhz
-#EXTINF:-1 group-title="📺ช่องทรูวิชั่น" tvg-id="Crime+Investigation.th" tvg-logo="https://rb.gy/xdaq88" group-title="ช่องทรูวิชั่น", True Crime+Investigation
+#EXTINF:-1 group-title="📺ช่องทรูวิชั่น"" tvg-logo="https://rb.gy/xdaq88" group-title="ช่องทรูวิชั่น", True Crime+Investigation
 https://n9.cl/0iyl6
-#EXTINF:-1 group-title="📺ช่องทรูวิชั่น" tvg-id="BBCLifestyle" tvg-name="BBCLifestyle" tvg-logo="https://rb.gy/91a30o" group-title="ช่องทรูวิชั่น",BBCLifestyle
+#EXTINF:-1 group-title="📺ช่องทรูวิชั่น"" tvg-logo="https://rb.gy/91a30o" group-title="ช่องทรูวิชั่น",BBCLifestyle
 https://n9.cl/e7fdv4
 #EXTINF:-1 group-title="📺ช่องทรูวิชั่น" tvg-id="True AsianMore" tvg-logo="https://shorturl.at/HFeDT",TRUE Lifetime
 https://n9.cl/clw1e
@@ -135,7 +135,7 @@ https://n9.cl/wvyb6u
 https://n9.cl/31fpv9
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://n9.cl/99o0y" group-title="📺ช่องทรูวิชั่น",HBO HITS
 https://n9.cl/r1mm7
-#EXTINF:-1 tvg-name="ช่องทรูวิชั่น" tvg-id="DeLuxeMusicDance.de" group-title="📺ช่องทรูวิชั่น" tvg-logo="https://2cm.es/Ppve",rockentertainment
+#EXTINF:-1 group-title="📺ช่องทรูวิชั่น"" tvg-logo="https://2cm.es/Ppve",rockentertainment
 #EXTVLCOPT:http-user-agent
 https://n9.cl/apwd2
 #EXTINF:-1 group-title="📺ช่องทรูวิชั่น"" tvg-logo="https://n9.cl/2i5ij",Rock ACTION
@@ -144,13 +144,9 @@ https://n9.cl/apwd2
 https://n9.cl/mwkt5u
 #EXTINF:-1 group-title="📺ช่องทรูวิชั่น"" tvg-logo="https://n9.cl/p6g8s",asian food channel
 https://n9.cl/2k38f1
-#EXTINF:-1 group-title="📺ช่องทรูวิชั่น"" tvg-logo="https://n9.cl/yhwou",true 2
-https://n9.cl/6sbyc
-#EXTINF:-1 group-title="📺ช่องทรูวิชั่น"" tvg-logo="https://n9.cl/ba6ah",true 7
-https://n9.cl/2fo8m
-#EXTINF:-1 tvg-name="ช่องทรูวิชั่น" tvg-id="DeLuxeMusicDance.de" group-title="📺ช่องทรูวิชั่น" tvg-logo="https://2cm.es/PpBn",Nickjr
+#EXTINF:-1 group-title="📺ช่องทรูวิชั่น""  tvg-logo="https://2cm.es/PpBn",Nickjr
 #EXTVLCOPT:http-user-agent
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truenickjr.m3u8
+https://n9.cl/5axl9
 #EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="Deutsch" tvg-logo="https://shorturl.at/XSTGA",TeleBärn HD
 https://n9.cl/52g2v
 #EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="🇩🇪Deutsch" tvg-logo="https://n9.cl/0pgz5",TLC
