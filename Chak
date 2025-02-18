@@ -127,6 +127,8 @@ https://n9.cl/o4b1y
 https://n9.cl/wpti4
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://n9.cl/k2osc" group-title="📺ช่องทรูวิชั่น",True Sport 5
 https://n9.cl/wqour
+#EXTINF:-1 group-title="📺ช่องทรูวิชั่น"" tvg-logo="https://n9.cl/ba6ah",true sport 7
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186561&extension=m3u8
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://n9.cl/lrw9y" group-title="📺ช่องทรูวิชั่น",AXN
 https://n9.cl/3ia9zu
 #EXTINF:-0 tvg-id="" tvg-name="TH - TR SPARK PLAY" tvg-logo="https://n9.cl/b1tre" group-title="📺ช่องทรูวิชั่น",HBO HD
