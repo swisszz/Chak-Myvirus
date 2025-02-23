@@ -39,10 +39,6 @@ https://2cm.es/Swl2
 https://2cm.es/Swl9
 #EXTINF:0001 tvg-id="3sat.de" tvg-chno="30" group-title="🇹🇭Thai iptv" tvg-logo="https://rb.gy/v6qhe8",News 1
 https://2cm.es/Swlk
-#EXTINF:0001 tvg-id="Thai iptv" tvg-chno="30" group-title="🇹🇭Thai iptv" tvg-logo="https://shorturl.at/72iLk",Lookthongtv
-https://2cm.es/PYTM
-#EXTINF:0001 tvg-id="Thai iptv" tvg-chno="30" group-title="🇹🇭Thai iptv" tvg-logo="https://rb.gy/rwo4ea",laochampa3
-https://n9.cl/tvfu2
 #EXTINF:-1 tvg-name="Thai iptv" tvg-id="DeLuxeMusicDance.de" group-title="🇹🇭Thai iptv" tvg-logo="https://2cm.es/RVIU",Siamnews
 https://n9.cl/w3lz8z
 #EXTINF:-1 tvg-name="Thai iptv" tvg-id="DeLuxeMusicDance.de" group-title="🇹🇭Thai iptv" tvg-logo="https://2cm.es/RVKS",Thai News
@@ -59,20 +55,12 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://n9.cl/ditd3z
 #EXTINF:-1 tvg-name="DELUXE MUSIC DANCE" tvg-id="DeLuxeMusicDance.de" group-title="🎶Musik" tvg-logo="https://shorturl.at/vsHG9",DELUXE -DANCE
 https://n9.cl/4hwo3
-#EXTINF:-1 tvg-name="Deejay Music" tvg-id="DeLuxeMusicDance.de" group-title="🎶Musik" tvg-logo="https://shorturl.at/LxIeV", Deejay Music
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-name="Kiss Music" tvg-id="DeLuxeMusicDance.de" group-title="🎶Musik" tvg-logo="https://rb.gy/e0oecw",Kiss  TV Music
 https://n9.cl/e3967
 #EXTINF:-1 tvg-name="MTV" tvg-id="DeLuxeMusicDance.de" group-title="🎶Musik" tvg-logo="https://shorturl.at/gRoIB",MTV Hit
-https://fl2.moveonjoy.com/MTV_U/index.m3u8
-#EXTINF:-1 tvg-name="Now Rock" tvg-id="DeLuxeMusicDance.de" group-title="🎶Musik" tvg-logo="https://n9.cl/i74qi",Now Rock
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Now 70s" tvg-id="DeLuxeMusicDance.de" group-title="🎶Musik" tvg-logo="https://n9.cl/4z1lt",Now 70s
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Now 80s" tvg-id="DeLuxeMusicDance.de" group-title="🎶Musik" tvg-logo="https://n9.cl/4z1lt",Now 80s
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+https://n9.cl/gym5o
 #EXTINF:-1 tvg-name="7xMusic" tvg-id="DeLuxeMusicDance.de" group-title="🎶Musik" tvg-logo="https://2cm.es/PriA",MTV LIVE
-http://178.162.225.182:2082/Tourobox1-y85tOTzw47/Att3piLtZf/831
+https://n9.cl/24esj
 #EXTINF:-1 group-title="📺ช่องทรูวิชั่น" tvg-id="True_Series" tvg-logo="https://n9.cl/32sji",True_Series
 https://n9.cl/v6nv7
 #EXTINF:-1 group-title="📺ช่องทรูวิชั่น" tvg-id="True Movie Hits" tvg-logo="https://n9.cl/b1q9mm",True Movie Hits
@@ -184,9 +172,9 @@ https://n9.cl/h4nog
 #EXTINF:-1 tvg-name="Deutsch TV" tvg-id="DeLuxeMusicDance.de" group-title="🇩🇪Deutsch" tvg-logo="https://n9.cl/ki42rd",Dmax
 https://n9.cl/ckosnt
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="🦁Ducoment" tvg-logo="https://2cm.es/Rxs9", Natgowild USA
-http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+https://n9.cl/totuef
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="🦁Ducoment" tvg-logo="https://2cm.es/RxrZ",Discovery USA
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+https://n9.cl/87gdk
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="🦁Ducoment" tvg-logo="https://2cm.es/RxrZ",Natgeowilld usa
 https://n9.cl/ui9xq
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="🦁Ducoment" tvg-logo="https://n9.cl/xj61ws",National Geographic
@@ -196,10 +184,10 @@ https://n9.cl/js4xvv
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="🦁Ducoment" tvg-logo="https://n9.cl/xl4u5x", Discovery Life HD
 https://n9.cl/mdok4
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="🦁Ducoment" tvg-logo="https://2cm.es/RxrG",Animal Planet USA
-https://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+https://n9.cl/rin6ta
 #EXTINF:-1 tvg-name="Ducument" tvg-id="DeLuxeMusicDance.de" group-title="🦁Ducoment" tvg-logo="https://n9.cl/25exh",Discovery Science
 https://n9.cl/1poozq
 #EXTINF:-1 tvg-name="Ducoment" tvg-id="DeLuxeMusicDance.de" group-title="🦁Ducoment" tvg-logo="https://shorturl.at/R22rq",Outdoor
 #EXTVLCOPT:http-user-agent
-https://github.com/bestcommt2/m3u8/raw/refs/heads/master/outdoor.m3u8
+https://n9.cl/7q3cd1
 
