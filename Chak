@@ -98,6 +98,8 @@ https://n9.cl/e3967
 https://n9.cl/gym5o
 #EXTINF:-1 tvg-name="7xMusic" tvg-id="DeLuxeMusicDance.de" group-title="🎼Musik" tvg-logo="https://2cm.es/PriA",MTV LIVE
 https://n9.cl/24esj
+#EXTINF:-1 group-title="📺ช่องทรูวิชั่นLive TV"" tvg-logo="https://n9.cl/d7irov",CH7
+https://raw.githubusercontent.com/swisszz/CH7/refs/heads/main/m3u8/raw/refs/heads/master/CH7.m3u8
 #EXTINF:-1 group-title="📺ช่องทรูวิชั่น" tvg-id="True_Series" tvg-logo="https://n9.cl/32sji",True_Series
 https://n9.cl/v6nv7
 #EXTINF:-1 group-title="📺ช่องทรูวิชั่น" tvg-id="True Movie Hits" tvg-logo="https://n9.cl/b1q9mm",True Movie Hits
