@@ -115,6 +115,15 @@ https://n9.cl/tgisx
 https://n9.cl/vquke1
 #EXTINF:-1 group-title="🇹🇭TV DIGITAL"" tvg-logo="https://n9.cl/ta58z",Siom TH
 https://n9.cl/peyll6
+#EXTINF:-1 group-title="🇹🇭PREMIUM IPTV TV" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",IZAAMOVIE
+#EXTVLCOPT:http-user-agent=izaa
+http://49.0.64.96:8007/IZAA
+#EXTINF:-1 group-title="🇹🇭PREMIUM IPTV TV" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",Action
+#EXTVLCOPT:http-user-agent=Action
+http://49.0.64.96:8007/Action
+#EXTINF:-1 group-title="🇹🇭PREMIUM IPTV TV" tvg-logo="https://i.ibb.co/B53tBWkh/logoizaamovie.png",Discovery
+#EXTVLCOPT:http-user-agent=Discovery
+http://49.0.64.96:8007/Discovery
 #EXTINF:-1 group-title="📺ช่องทรูวิชั่น" tvg-id="True_Series" tvg-logo="https://n9.cl/32sji",True_Series
 https://n9.cl/v6nv7
 #EXTINF:-1 group-title="📺ช่องทรูวิชั่น" tvg-id="True Movie Hits" tvg-logo="https://n9.cl/b1q9mm",True Movie Hits
